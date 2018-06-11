@@ -1,0 +1,32 @@
+{
+  "name": "cricket",
+  "version": "1.0.0",
+  "description": "Application of Object Oriented Programming to a cricket problem",
+  "main": "main.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "jasmine": "^3.1.0",
+    "table-master": "^1.0.3",
+    "typescript": "^2.9.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gowthamgj/Cricket.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Python",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gowthamgj/Cricket/issues"
+  },
+  "homepage": "https://github.com/Gowthamgj/Cricket#readme"
+}
